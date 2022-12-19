@@ -19,7 +19,7 @@
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night 
 url     : audreymcnay.com
-baseurl : /blog-test
+baseurl : #
 title   : Stinky blog
 description: > # this means to ignore newlines until "Language & timezone"
   A stinky blog by a stinky person.
@@ -62,7 +62,7 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : /blog-test
+  root    : #
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
