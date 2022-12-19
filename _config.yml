@@ -18,7 +18,7 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night 
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : audreymcnay.com
 baseurl : /blog-test
 title   : Stinky blog
 description: > # this means to ignore newlines until "Language & timezone"
