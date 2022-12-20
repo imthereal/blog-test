@@ -16,7 +16,7 @@
 
 ## => Site Settings
 ##############################
-text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+text_skin: monokai # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night 
 url     : audreymcnay.com
 baseurl : #
