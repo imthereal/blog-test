@@ -21,8 +21,7 @@ highlight_theme: tomorrow-night
 url     : audreymcnay.com
 baseurl : #
 title   : Stinky blog
-description: > # this means to ignore newlines until "Language & timezone"
-  A stinky blog by a stinky person.
+description: A stinky blog by a stinky person.
 
 
 ## => Language and Timezone
@@ -37,7 +36,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Audrey
   url       : audreymcnay.com
-  avatar    : # path or url of avatar image (square)
+  avatar    : /assets/images/logo/logo.svg
   bio       : I'm stinky.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -56,7 +55,7 @@ author:
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: imthereal/blog-test
-repository_tree: master
+repository_tree: main
 
 
 ## => Paths
@@ -64,7 +63,7 @@ repository_tree: master
 paths:
   root    : #
   home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
+  archive : /archive.html # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
 

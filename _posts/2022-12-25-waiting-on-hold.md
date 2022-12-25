@@ -23,11 +23,11 @@ For today's post, I'll be exploring how to improve airline customer service. Bec
 ## Adding dynamic wait indicators
 Any digital designer knows the importance of system status visibility. Heck, if you've ever interacted with a system (which, if you're reading this, you must've), you probably do, too.
 
-[Visbility of system status](https://www.nngroup.com/articles/ten-usability-heuristics/) is actually Nielsen's number one usability heuristic of user interface design:
+[Visbility of system status](https://www.nngroup.com/articles/ten-usability-heuristics/) is actually Nielsen's #1 usability heuristic of user interface design:
 
 <div class="callout">
   <div class="callout__content">
-    <p>The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. – Jacob Nielsen</p>
+    <p>The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. – Jakob Nielsen</p>
   </div>
 </div>
 
