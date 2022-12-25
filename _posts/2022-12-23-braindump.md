@@ -12,40 +12,39 @@ sidebar:
 I don't have inspiration to write about any particular topic, but since I want to force myself to write consistently, I'll do a good ol' fashioned braindump.
 
 ## Owls
-I learned a few things about owls yesterday. First, owls have chonky, fluffy legs:
-<img class="image image--md" src="/assets/img/owl.jpg"/>
+I learned a few things about owls yesterday.
+
+Owls have long and chonky legs:
+![owl with legs exposed](/assets/img/owl.jpg)
+
+You can also [see owls' eyeballs through their ears](https://www.livescience.com/61673-owl-eye-seen-through-ear.html) (warning: a bit graphic for the squeamish).
 
 
-Starting as friends is much easier. You already know the other person to some degree — their likes, their dislikes, their mannerisms — which means you only need to vet for romantic compatabilitiy. 
+## Website builders
+I've been building a website for my mom's business, and I wanted to make sure it had a super simple drag-and-drop type of CMS. I decided to use Squarespace.
 
-## I'm confused by the conventions
-Dating app dates have such different conventions from traditional dates. How long are you supposed to chat with someone before you actually propose going on a date? When do you exchange phone numbers? But here are my biggest confusions so far:
+Somehow, building the website on Squarespace is more painful than building it from scratch. But we persist.
 
-### Do you ask for your date's last name?
-This is a weird one. [Wall Street Journal](https://www.wsj.com/articles/the-new-dating-no-no-asking-for-a-last-name-1516810482) says the answer is **no**.
+## Bass
+I've finally started picking up my bass (guitar) again.
 
-I get cognitive dissonance getting to know someone romantically when I don't know their last name. If I really wanted to, I'm sure I could find my dates' last names online. Recon is one of my strong suits. I don't, though, because I want to be respectful of their privacy — I wouldn't want people snooping on me!
+My gal has, unfortunately, been collecting dust in the corner of my bedroom for years. I stopped after college, when I moved into my first non-student apartment, since neighbors who share a wall can be ruthless about noise. And roommates. I could've put on headphones, sure, but it just doesn't feel the same.
 
-More importantly, not knowing someone's name when you meet with them poses a security concern. What if the person I'm going out with is a convicted felon? What if I'm getting catfished by a creep?
+I've been trying to tabulate some basslines on my own. Normally, I'd just write the tabs by hand, but I decided to get fancy and use MuseScore. I'm surprised that a free music scoring software has such a robust featureset to do bass tablature. 
 
+## ABG night
+I attended "ABG Night" at the Milpitas Dave and Buster's the other day. ABG Night boasts half-off drinks, a 10'x10' (or maybe smaller) dance floor, and many drunk Asian people.
 
-### Do you go on dates with multiple people at once?
-I've gotten **extremely** mixed feedback from friends. Some say that it's not nice to do so, especially after you've gone on more than one date with the same person, and you should ask upfront. Other friends said that you should always assume it's not exclusive until someone says it is.
+For the uninitiated, [Vice has a great article on ABGs](https://i-d.vice.com/en/article/g5p44x/it-was-a-cultural-reset-a-short-history-of-the-abg-aesthetic). 
 
-But it seems like asking about exclusivity, even just to level-set, feels serious. This gets into my next big gripe with dating apps.
+I love arcades and was excited to play games, but was thoroughly disappointed by the selection at this Dave and Buster's. The games they had were akin to "Crossy Road" and "Digital Pong," and I found very few classic arcade games outside of skee ball, basketball, and DDR.
 
-
-## I hate the lack of transparency
-I don't have any strong feelings about what I'm looking for. I mostly just want to have fun and get to know people, and if something works out, great. It'd be great to find my partner for life, but it's not my priority.
-
-Despite this mindset, I'm nervous about being transparent about my thoughts and feelings. App dates seem to have this air of non-chalant indecision — perhaps since you don't know enough about each other to organically judge how the other person feels. Neither party wants to rock the boat one way or another. You don't want to show too much interest, but you want to show enough to keep the ball rolling.
-
-I'm generally a straight shooter, so it's been a shift to be more mindful about what I say, and how and when I say it. 
+On the other hand, I was thoroughly impressed by the sheer number of ABGs in attendance. It made me want to get eyelash extensions.
 
 
 ## Current jams
-
-<div>{%- include extensions/soundcloud.html id='1072670266' -%}</div>
+We're rewinding to high school. 
+<div>{%- include extensions/soundcloud.html id='50909581' -%}</div>
 
 
 ### Thanks for reading!
