@@ -36,7 +36,7 @@ Done? Good. Now, it's time to get stuff done. My tips vary based on your stage o
 
 ## Struggle: I have no idea what to write about
 
-**Write nonstop for 5 minutes**
+### Write nonstop for 5 minutes
 
 Set a timer for five minutes, then write **without stopping** until the timer's up. The topic is irrelevant. I find this exercise helpful when I'm writing with pen and paper, but feel free to experiment.
 
@@ -46,7 +46,7 @@ To get started, consider describing your day, the room you're sitting in, or som
 
 The more often you practice this exercise, the easier it'll be to generate ideas on the fly. I'm not sure of the exact science behind it, but I'd guess it has to do with lateral and vertical thinking. Most people struggle to think of ideas because they limit themselves to linear thinking, which is the bane of a good brainstorm.
 
-**Get inspired by analogous works**
+### Get inspired by analogous works
 
 You might be tempted to see how other people have responded to the same prompt. This can be helpful to an extent, but it can also limit your ideas to what's already been done.
 
@@ -57,13 +57,13 @@ For example, many college applications ask you to talk about a difficult situati
 It sounds a bit woo-woo, but you'll get some unique ideas out of it.
 
 ## Struggle: I have an idea, but don't know how to convey it
-**Write an outline** 
+### Write an outline
 
 Teachers tell you to do this for a reason. It's a great way to organize your thoughts and solidify what points you'll make.
 
 I'll admit that I'm not the biggest fan of outlines, especially for creative writing. However, you may find that it provides the structure you need to get started.
 
-**Talk out loud, and record it**
+### Talk out loud, and record it
 
 Record yourself telling the story to someone. If no one's around, that's ok. You can pretend you're talking to a someone. You can use your phone's built in voice memo app.
 
@@ -76,19 +76,19 @@ Why does this work? Many people find it easier to talk through things than to wr
 Even better, this method brings a natural flow to your writing. If it feels natural to explain something in a certain order, it'll read naturally, too. 
 
 ## Struggle: I'm tired of editing
-**Read it out loud**
+### Read it out loud
 
 Staring at words on a screen for a long period of time makes it harder to spot errors.
 
 Say *every. single. word.* out loud. You'll easily find typos, grammatical errors, and those spots that just feel wrong.
 
-**Have someone else read it**
+### Have someone else read it
 
 It's incredibly helpful to get a second set of eyes on your work. You're blind to your own biases, so let someone else point out where things don't make sense to the average reader. 
 
 This is especially important for college application essays. Usually, you talk about yourself with people who already know you, to some extent. Since admissions committees don't know you at all, you'll need to add much more context than comes naturally.  
 
-**Hemingway App**
+### Hemingway App
 
 We're lucky to live in an era with free writing tools galore. I highly reccommmend using [Hemingway App](https://hemingwayapp.com/). It tells you what parts of your writing, if any, are difficult to understand, and also provides suggestions to increase its readability. 
 
